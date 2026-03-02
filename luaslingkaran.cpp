@@ -16,3 +16,7 @@ void output (){
     cout << "hasilnya=" << luaslingkaran (r);
 }
 
+int main (){
+    input();
+    output();
+}
