@@ -8,3 +8,6 @@ void input (){
     cout << "Masukkan jari jari:";
     cin >> r;
 }
+float luas lingkaran (int b){
+    return phi*b*b;
+}
