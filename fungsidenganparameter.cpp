@@ -16,4 +16,7 @@ int luaspersegi(int a, int b){
 int jumlah(int x, int y, int z){
     return x+y+z;
 }
+void output (){
+    cout << "Hasilnya :" << luaspersegi(panjang,lebar) <<endl;
+}
 
