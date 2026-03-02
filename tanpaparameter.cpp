@@ -8,6 +8,10 @@
     cin >> p;
     cout << "Masukkan lebar:";
     cin >> l;
+
+    luas = p*l;
+
+    cout << "hasilnya :" << luas;
   }
 
-  luas = p*l;
+  
