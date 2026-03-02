@@ -11,3 +11,8 @@ void input (){
 float luas lingkaran (int b){
     return phi*b*b;
 }
+
+void output (){
+    cout << "hasilnya=" << luaslingkaran (r);
+}
+
